@@ -1,0 +1,27 @@
+{
+  "name": "OnSpotify-Plugins",
+  "owner": {
+    "name": "Showerhead"
+  },
+  "metadata": {
+    "description": "Plugin marketplace by Showerhead"
+  },
+  "plugins": [
+    {
+      "name": "trading-experiment",
+      "source": {
+        "source": "github",
+        "repo": "leCheeseRoyale/trading-experiment"
+      },
+      "description": "Autonomous crypto strategy research via backtesting. Claude designs experiments, writes strategy code, runs backtests, analyzes results, and iterates.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Maxwell"
+      },
+      "homepage": "https://github.com/leCheeseRoyale/trading-experiment",
+      "repository": "https://github.com/leCheeseRoyale/trading-experiment",
+      "keywords": ["trading", "crypto", "backtesting", "agent", "strategy"],
+      "category": "productivity"
+    }
+  ]
+}
