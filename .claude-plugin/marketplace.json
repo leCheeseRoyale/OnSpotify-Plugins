@@ -70,6 +70,22 @@
       "repository": "https://github.com/leCheeseRoyale/pretext-skill",
       "keywords": ["pretext", "text-layout", "measurement", "canvas", "typography"],
       "category": "development"
+    },
+    {
+      "name": "swarm",
+      "source": {
+        "source": "github",
+        "repo": "leCheeseRoyale/swarm"
+      },
+      "description": "Deterministic state machine for autonomous multi-agent development. One orchestrator dispatches coder/reviewer agents in worktrees with queue-based task management.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Maxwell"
+      },
+      "homepage": "https://github.com/leCheeseRoyale/swarm",
+      "repository": "https://github.com/leCheeseRoyale/swarm",
+      "keywords": ["swarm", "orchestrator", "agent", "worktree", "state-machine", "queue"],
+      "category": "development"
     }
   ]
 }
