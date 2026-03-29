@@ -22,6 +22,38 @@
       "repository": "https://github.com/leCheeseRoyale/trading-experiment",
       "keywords": ["trading", "crypto", "backtesting", "agent", "strategy"],
       "category": "productivity"
+    },
+    {
+      "name": "kimiclaude",
+      "source": {
+        "source": "github",
+        "repo": "leCheeseRoyale/kimiclaude"
+      },
+      "description": "Spawn Kimi CLI as a general-purpose sub-agent for Claude Code — define the task at spawn time, just like Claude Code's native Agent tool",
+      "version": "1.0.0",
+      "author": {
+        "name": "Maxwell"
+      },
+      "homepage": "https://github.com/leCheeseRoyale/kimiclaude",
+      "repository": "https://github.com/leCheeseRoyale/kimiclaude",
+      "keywords": ["kimi", "agent", "subagent", "cli"],
+      "category": "productivity"
+    },
+    {
+      "name": "design-skill",
+      "source": {
+        "source": "github",
+        "repo": "leCheeseRoyale/design-skill"
+      },
+      "description": "Build visually stunning, production-grade websites with exceptional design quality and advanced layout techniques",
+      "version": "1.0.0",
+      "author": {
+        "name": "Maxwell"
+      },
+      "homepage": "https://github.com/leCheeseRoyale/design-skill",
+      "repository": "https://github.com/leCheeseRoyale/design-skill",
+      "keywords": ["design", "frontend", "websites", "css", "ui"],
+      "category": "productivity"
     }
   ]
 }
