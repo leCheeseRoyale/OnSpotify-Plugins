@@ -54,6 +54,22 @@
       "repository": "https://github.com/leCheeseRoyale/design-skill",
       "keywords": ["design", "frontend", "websites", "css", "ui"],
       "category": "productivity"
+    },
+    {
+      "name": "pretext-skill",
+      "source": {
+        "source": "github",
+        "repo": "leCheeseRoyale/pretext-skill"
+      },
+      "description": "Skill for building with @chenglou/pretext — a pure TypeScript text measurement & layout engine that bypasses DOM reflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "Maxwell"
+      },
+      "homepage": "https://github.com/leCheeseRoyale/pretext-skill",
+      "repository": "https://github.com/leCheeseRoyale/pretext-skill",
+      "keywords": ["pretext", "text-layout", "measurement", "canvas", "typography"],
+      "category": "development"
     }
   ]
 }
